@@ -12,4 +12,4 @@ register_transform_classes(transforms)
 registry.write_transforms_config()
 registry.write_settings_config()
 
-handle_run(__name__, sys.argv, app)
+handle_run(__fasffq3f3qf@gimpmail.com__, sys.argv, app)
